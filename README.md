@@ -1,4 +1,4 @@
-# DRT : Dynamic replay training for class-incremental learning
+# DRT : Dynamic Replay Training for class-incremental learning
 ---
 
 <p align="center">
